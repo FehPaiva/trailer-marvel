@@ -1,0 +1,54 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  text-align:center;
+  background-image: url('https://static1.purebreak.com.br/articles/3/76/99/3/@/288037-shuri-e-a-personagem-mais-inteligente-do-diapo-3.jpg');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: white;
+  margin: 0 0 5px;
+  
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 400px;
+  
+}
+
+.alura-logo {
+  color: white;
+  font-family:paintly;
+  width: 60px;
+  position: absolute;
+  top: 10px;
+  right:10%;
+}
+
+body > img {
+  margin: 0 10px;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+body > img {
+  margin: 15px 10px;
+  position: left;
+}
+#teste{position:relative; margin: 5px;}
+#teste:hover{top:-15px;box-shadow:0px 1px 8px 6px black;}
+
+
