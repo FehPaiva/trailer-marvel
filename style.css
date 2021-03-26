@@ -11,6 +11,8 @@ body {
 .container {
   text-align: center;
   padding: 20px;
+   top: 30%;
+    left: 50%;
 }
 
 .page-title {
@@ -42,9 +44,6 @@ body > img {
   margin: 0 10px;
   border-radius: 10px;
   cursor: pointer;
-  top: 30%;
-    left: 50%;
- 
 
 }
 body > img {
