@@ -43,6 +43,7 @@ body > img {
   margin: 0 10px;
   border-radius: 10px;
   cursor: pointer;
+  position: center;
 
 }
 body > img {
