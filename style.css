@@ -11,8 +11,7 @@ body {
 .container {
   text-align: center;
   padding: 20px;
-   top: 30%;
-    left: 50%;
+  
 }
 
 .page-title {
@@ -48,7 +47,7 @@ body > img {
 }
 body > img {
   margin: 15px 10px;
-  position: left;
+  position: center;
    
 }
 #teste{position:relative; margin: 5px;}
