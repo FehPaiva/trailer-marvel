@@ -20,7 +20,7 @@ var listaFilmes = ['//m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXk
 'https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg' ]
 
 
-var linkTrailer= ['https://www.youtube.com/watch?v=8ugaeA-nMTc',
+var linkTrailer= ['https://redecanais.cloud/homem-de-ferro-live-action-o-filme-video_2206bce8b.html',
                   'https://www.youtube.com/watch?v=BoohRoVA9WQ',
                   'https://www.youtube.com/watch?v=JOddp-nlNvQ',
                   'https://www.youtube.com/watch?v=7SlILk2WMTI',
@@ -51,4 +51,5 @@ for (var i = 0; i< listaFilmes.length; i ++){
 }
 
 //document.write('<img src=' + listaFilmes[i] + '>')
+//https://www.youtube.com/watch?v=8ugaeA-nMTc
 
